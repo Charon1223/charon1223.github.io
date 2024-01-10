@@ -23,3 +23,9 @@ theme = 'PaperMod'
   weight = 2
   identifier = 'tag'
   url = '/tags/'
+
+[[menu.main]]
+  name = 'Archives'
+  weight = 3
+  identifier = 'archives'
+  url = '/archives/'
