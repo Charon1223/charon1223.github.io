@@ -14,7 +14,7 @@ theme = 'PaperMod'
 [manu]
 
 [[menu.main]]
-  name = 'Homes'
+  name = 'Home'
   weight = 1
   url = '/'
 
