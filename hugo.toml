@@ -1,0 +1,25 @@
+baseURL = ''
+languageCode = 'ko-ko'
+title = 'Escapee 개발블로그'
+theme = 'PaperMod'
+
+[params]
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+   Title = 'Escapee 💻'
+   Content = '예비 프론트엔드 개발자'
+
+
+[manu]
+
+[[menu.main]]
+  name = 'Homes'
+  weight = 1
+  url = '/'
+
+[[menu.main]]
+  name = 'tags'
+  weight = 2
+  identifier = 'tag'
+  url = '/tags/'
