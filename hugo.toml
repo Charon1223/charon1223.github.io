@@ -1,4 +1,4 @@
-baseURL = 'https://charon1223.github.io'
+baseURL = ''
 languageCode = 'ko-KR'
 title = 'Escapee 개발블로그'
 theme = 'PaperMod'
@@ -35,18 +35,18 @@ SiteVerificationTag = '130654ff6e17eab8856b4dadebba3476587c42e3'
   name = 'home'
   weight = 1
   identifier = 'home'
-  url = '/first-blog/'
+  url = '/'
 
 [[menu.main]]
   name = 'tags'
   weight = 2
   identifier = 'tag'
-  url = '/first-blog/tags/'
+  url = '/tags/'
 
 [[menu.main]]
   name = 'Archives'
   weight = 3
   identifier = 'archives'
-  url = '/first-blog/archives/'
+  url = '/archives/'
 
 
