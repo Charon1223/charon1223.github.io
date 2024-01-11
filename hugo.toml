@@ -10,8 +10,10 @@ canonifyURLs = true
 
 [params]
   ShowPostNavLinks = true
-  author = 'Escapee'
-  github = 'https://github.com/Charon1223'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/Charon1223'
 
 [params.homeInfoParams]
    Title = 'Escapee 💻'
