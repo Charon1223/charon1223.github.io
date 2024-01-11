@@ -1,12 +1,14 @@
 baseURL = 'https://charon1223.github.io/first-blog'
-languageCode = 'ko-ko'
+languageCode = 'ko-KR'
 title = 'Escapee 개발블로그'
 theme = 'PaperMod'
 
+defaultContentLanguage = "ko"
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
+
 
 [params]
   ShowPostNavLinks = true
@@ -22,6 +24,9 @@ canonifyURLs = true
 [params.homeInfoParams]
    Title = 'Escapee 💻'
    Content = 'Welcome to my blog'
+
+[params.analytics.naver]
+SiteVerificationTag = '130654ff6e17eab8856b4dadebba3476587c42e3'
 
 
 [manu]
