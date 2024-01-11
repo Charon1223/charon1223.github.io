@@ -26,7 +26,7 @@ canonifyURLs = true
    Content = 'Welcome to my blog'
 
 [params.analytics.naver]
-SiteVerificationTag = '130654ff6e17eab8856b4dadebba3476587c42e3'
+SiteVerificationTag = '36fad9d49567364592a38097cda293847713ec01'
 
 
 [manu]
