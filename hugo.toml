@@ -3,12 +3,19 @@ languageCode = 'ko-ko'
 title = 'Escapee 개발블로그'
 theme = 'PaperMod'
 
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
   ShowPostNavLinks = true
+  author = 'Escapee'
+  github = 'https://github.com/Charon1223'
 
 [params.homeInfoParams]
    Title = 'Escapee 💻'
-   Content = '예비 프론트엔드 개발자'
+   Content = 'Welcome to my blog'
 
 
 [manu]
