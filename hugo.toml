@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://charon1223.github.io/first-blog'
 languageCode = 'ko-ko'
 title = 'Escapee 개발블로그'
 theme = 'PaperMod'
@@ -27,7 +27,7 @@ canonifyURLs = true
 [manu]
 
 [[menu.main]]
-  name = 'Home'
+  name = 'home'
   weight = 1
   identifier = 'home'
   url = '/'
