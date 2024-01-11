@@ -1,4 +1,4 @@
-baseURL = 'https://charon1223.github.io/first-blog'
+baseURL = 'https://charon1223.github.io'
 languageCode = 'ko-KR'
 title = 'Escapee 개발블로그'
 theme = 'PaperMod'
