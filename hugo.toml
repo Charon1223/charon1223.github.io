@@ -10,6 +10,10 @@ canonifyURLs = true
 
 [params]
   ShowPostNavLinks = true
+  title = "Escapee Blog"
+  description = "welcome to my blog!."
+  keywords = [ "techblog", "기술블로그", "프론트엔드" ]
+  author = "Escapee"
 
 [[params.socialIcons]]
   name = 'github'
@@ -25,6 +29,7 @@ canonifyURLs = true
 [[menu.main]]
   name = 'Home'
   weight = 1
+  identifier = 'home'
   url = '/'
 
 [[menu.main]]
