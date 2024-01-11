@@ -25,9 +25,6 @@ canonifyURLs = true
    Title = 'Escapee 💻'
    Content = 'Welcome to my blog'
 
-[params.analytics.naver]
-SiteVerificationTag = '36fad9d49567364592a38097cda293847713ec01'
-
 
 [manu]
 
