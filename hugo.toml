@@ -25,6 +25,9 @@ canonifyURLs = true
    Title = 'Escapee 💻'
    Content = 'Welcome to my blog'
 
+[params.analytics.google]
+SiteVerificationTag = "VeeCUKvEDtMnUcnTNDJCQ8gbvRQx6N6UpNgWRmC8ZYY"
+
 
 [manu]
 
